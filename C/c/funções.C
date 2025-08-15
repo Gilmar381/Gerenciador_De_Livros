@@ -43,3 +43,4 @@ int main() {
     exibirRegistro(&registro);
 
     return 0;
+}
